@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WingtipToys {
+namespace ASP_Tutorial1 {
     
     
     public partial class _Default {
